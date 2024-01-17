@@ -7,3 +7,4 @@
 ## Python
 * [Python 기초](./python/240115python.md)
 * [Python DataTypes](./python/240116python.md)
+* [Python 함수](./python/240117python.md)
