@@ -9,3 +9,4 @@
 * [Python DataTypes](./python/240116python.md)
 * [Python 함수](./python/240117python.md)
 * [Python 반복문 및 조건문](./python/240118python.md)
+* [Python 메서드](./python/240122python.md)
