@@ -11,4 +11,4 @@
 * [Python 반복문 및 조건문](./python/240118python.md)
 * [Python 메서드](./python/240122python.md)
 * [Python 비 Sequence 메서드](./python/240123python.md)
-* [Python OOP(1)(./python/240124python.md)
+* [Python OOP(1)](./python/240124python.md)
