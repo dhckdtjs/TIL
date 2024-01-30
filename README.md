@@ -13,3 +13,7 @@
 * [Python 비 Sequence 메서드](./python/240123python.md)
 * [Python OOP(1)](./python/240124python.md)
 * [Python OOP(2)](./python/240125python.md)
+
+## Algo
+* [Bubble Sort](./python/240129python.md)
+* [Count Sort](./python/240130python.md)
