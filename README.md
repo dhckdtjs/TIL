@@ -18,3 +18,6 @@
 * [Bubble Sort](./python/240129python.md)
 * [Count Sort](./python/240130python.md)
 * [2차원 배열](./python/240131python.md)
+* [2진 검색/선택 정렬](./python/240201python.md)
+* [String](./python/240205python.md)
+* [String2](./python/240206python.md)
