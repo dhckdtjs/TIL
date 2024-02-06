@@ -1,4 +1,4 @@
-# TTL
+# TIL
 
 ## Git
 * [git 기본 정리](./git/240111_git%20기초.md)
