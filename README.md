@@ -21,3 +21,5 @@
 * [2진 검색/선택 정렬](./python/240201python.md)
 * [String](./python/240205python.md)
 * [String2](./python/240206python.md)
+* [Stack1](./python/240207python.md)
+* [Stack2](./python/240208python.md) 
