@@ -27,3 +27,5 @@
 * [BFS](./python/240216python.md)
 * [Tree](./python/240220python.md)
 * [Tree2](./python/240221python.md)
+* [비트연산](./python/240223python.md)
+* [반복과 재귀](./python/240227python.md)
