@@ -32,4 +32,4 @@
 ## Web
 * [Web1](./python/240306web.md)
 * [Web2](./python/240307web.md)
-* [Bootstrap](./python240308web.md)
+* [Bootstrap](./python/240308web.md)
