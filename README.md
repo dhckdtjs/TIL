@@ -33,3 +33,6 @@
 * [Web1](./python/240306web.md)
 * [Web2](./python/240307web.md)
 * [Bootstrap](./python/240308web.md)
+## Django
+* [Django1](./python/240312Django.md)
+* [Django2](./python/240313Django.md) 
