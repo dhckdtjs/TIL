@@ -29,10 +29,14 @@
 * [Tree2](./python/240221python.md)
 * [비트연산](./python/240223python.md)
 * [반복과 재귀](./python/240227python.md)
+* [분할 정복 & 이진탐색](./python/240318python.md)
+* [그래프](./python/240320python.md)
 ## Web
 * [Web1](./python/240306web.md)
 * [Web2](./python/240307web.md)
 * [Bootstrap](./python/240308web.md)
 ## Django
 * [Django1](./python/240312Django.md)
-* [Django2](./python/240313Django.md) 
+* [Django2](./python/240313Django.md)
+* [Django3](./python/240314Django.md)
+
