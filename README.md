@@ -31,6 +31,7 @@
 * [반복과 재귀](./python/240227python.md)
 * [분할 정복 & 이진탐색](./python/240318python.md)
 * [그래프](./python/240320python.md)
+* [Dijkstra](./python/240321python.md)
 ## Web
 * [Web1](./python/240306web.md)
 * [Web2](./python/240307web.md)
@@ -39,4 +40,7 @@
 * [Django1](./python/240312Django.md)
 * [Django2](./python/240313Django.md)
 * [Django3](./python/240314Django.md)
+* [Django4](./python/240325Django.md)
+* [Django5](./python/240326Django.md)
+* [Django6](./python/240327Django.md)
 
