@@ -46,5 +46,7 @@
 * [Django7](./python/240328Django.md)
 * [Django8](./python/240329Django.md)
 * [Django9](./python/240401Django.md)
-* 
+## DB
+* [DB1](./python/240402DB.md)
+* [DB2](./python/240403DB.md)
 
