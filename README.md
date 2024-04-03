@@ -43,4 +43,8 @@
 * [Django4](./python/240325Django.md)
 * [Django5](./python/240326Django.md)
 * [Django6](./python/240327Django.md)
+* [Django7](./python/240328Django.md)
+* [Django8](./python/240329Django.md)
+* [Django9](./python/240401Django.md)
+* 
 
